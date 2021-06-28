@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/hoopinwhoopin/hoopinwhoopin/blob/main/images/newbg(1).png" />
+<img src="https://github.com/hoopinwhoopin/hoopinwhoopin/blob/main/images/Facebook Video Cover 1702x630 px" />
 
 <p align="center">
  
