@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I'm a 1st year student pursuing Btech in Computer Applications . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and work in teams👨🏻‍💻. I'm currently into Open Source 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+ 2nd student pursuing Btech in Computer Applications . I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and work in teams👨🏻‍💻. I'm currently into Open Source 🕸️ and working on my Data Structures and Algorithms skills 🤓.
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/hoopinwhoopin/hoopinwhoopin/blob/main/images/laptop.gif" width="50"></h2>
